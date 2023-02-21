@@ -18,3 +18,6 @@ https://docs.google.com/document/d/1F2NdcbvJZNJlIOzlb8B6I1l_ic3uE6xj/edit#
 
 4. `Check job and apply for interviews here:`<br/>
 https://ep-advisory.com/ru/statii/emigracziya-iz-ukrainy-rossii-belarusi-kak-najti-rabotu-za-graniczej/
+
+5. `Read whole article here`<br/>
+https://ep-advisory.com/ru/statii/emigracziya-iz-ukrainy-rossii-belarusi-kak-najti-rabotu-za-graniczej/
