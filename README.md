@@ -3,8 +3,9 @@
 1. `Computer sciense roadmap:`<br/>
 https://github.com/jwasham/coding-interview-university
 
-- [ ] Pick topics related to my experience or interested to me
-- [ ] Pick more related topics from inderested and related
+- [x] Pick topics related to my experience or interested to me
+- [x] Pick more related topics from inderested and related
+- [ ] Do https://github.com/qscgyjqscgyj/interviews-preparing/blob/main/roadmap.md
 
 ```
 Note: Try to use the 15 min timer while I'm working on the issues
