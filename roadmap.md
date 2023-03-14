@@ -4,19 +4,19 @@
 
 <br/>
 
+**Algorithms** <br/>
+
+-   [ ] Course https://www.coursera.org/learn/algorithms-part1/supplement/JgDHB/lecture-slides - **2 days full course**
+-   [ ] Binary search https://github.com/jwasham/coding-interview-university#binary-search - **3 hours - 1 day**
+
+<br/>
+<br/>
+
 **Data structure**
 
 -   [ ] Stack https://github.com/jwasham/coding-interview-university#stack - **2 short videos - 12 minutes**
 -   [ ] Queue https://github.com/jwasham/coding-interview-university#queue - **2 short videos and 1 article - 1 hour 10 minutes**
 -   [ ] Hash table https://github.com/jwasham/coding-interview-university#hash-table - **7 long videos and 6 short videos - 8 hours (2 days)**
-
-<br/>
-<br/>
-
-**Algorithms** <br/>
-
--   [ ] Course https://www.coursera.org/learn/algorithms-part1/supplement/JgDHB/lecture-slides - **2 days full course**
--   [ ] Binary search https://github.com/jwasham/coding-interview-university#binary-search - **3 hours - 1 day**
 
 <br/>
 <br/>
